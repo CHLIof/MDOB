@@ -1,5 +1,5 @@
 
-# Language-guided Multi-Dataset Object Detection for Remote Sensing Imagery.
+# Multi-Dataset Object Detection .
 
 
 
@@ -9,8 +9,6 @@ This project is based on [mmdetection](https://github.com/open-mmlab/mmdetection
 
 ### Introduction
 
-This project is the implementation of paper: Language-guided Multi-Dataset Object Detection for Remote Sensing Imagery. The goal of this project
-is to design a multi-dataset object detection framework in remote sensing Images.
 
 
 ### Datasets Preparation
